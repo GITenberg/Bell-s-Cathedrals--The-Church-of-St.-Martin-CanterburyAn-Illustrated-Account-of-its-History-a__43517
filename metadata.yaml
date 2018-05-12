@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42266'
     url: http://www.gutenberg.org/2009/agents/42266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43517#Bell-s-Cathedrals--The-Church-of-St.-Martin-CanterburyAn-Illustrated-Account-of-its-History-a_
 gutenberg_issued: '2013-08-20'
 gutenberg_type: Text
 identifiers:
